@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @developerdev2007
-- 👀 I’m interested in MERN stack developement
-- 🌱 I’m currently learning MERN Stack.
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Dev Gupta
+- 👀 I’m interested in Seftware Engineering 
+- 🌱 I’m currently learning and working on MERN Stack.
+- 💞️ I’m looking to collaborate on open Source projects
 - 📫 How to reach me developerdev2007@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I Love to learn new Concepts and technical things
 
 <!---
 developerdev2007/developerdev2007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

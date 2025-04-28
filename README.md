@@ -52,13 +52,13 @@ Currently deep-diving into **Next.js**, **NestJS**, **AI Integrations**, and **M
 
 ---
 
-### 💬 Mistral AI Chatbot for Almani Lokheri
+### 💬 Mistral AI Chatbot for Almanilokheri (Our Alumni's Platform)
 
 > **Stack:** Custom HTML/CSS/JavaScript Frontend + Mistral AI Model Backend  
 > **Description:**  
 > Designed and implemented a real-time AI chatbot to serve visitors with intelligent responses, seamlessly connecting a lightweight frontend to a powerful Mistral-powered backend.
 
-🔗 [Click me ](<[Almanilokheri](https://almanilokheri.in/)>)
+🔗 [Click me](https://almanilokheri.in/)
 
 ---
 

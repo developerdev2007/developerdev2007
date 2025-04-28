@@ -1,56 +1,105 @@
-<!---- 👋 Hi, I’m Dev Gupta
-- 👀 I’m interested in Software Engineering 
-- 🌱 I’m skilled MERN Stack Developer.
-- 🌱 I’m currently learning and working on Nextjs.
-- 💞️ I’m looking to collaborate on open Source projects,
-- 📫 How to reach me developerdev2007@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I Love to learn new Concepts and technical things.
---->
-<!---
-developerdev2007/developerdev2007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 🚀 Hi, I'm Dev Gupta — Full-Stack Developer | AI Engineer | Open Source Enthusiast
 
+Welcome to my GitHub! 👋  
+I'm a **MERN Stack Developer** evolving into an **AI-Driven Full-Stack Engineer**, passionate about building scalable products, intelligent systems, and crafting next-gen user experiences.  
+Currently deep-diving into **Next.js**, **NestJS**, **AI Integrations**, and **Modern Cloud Architectures**.
 
-🚀 Hello, I'm Dev! 👋
+---
 
-Welcome to my GitHub profile!
-I’m a passionate MERN Stack Developer 🛠️ | Open-Source Contributor 🌱 
-I love building amazing applications and contributing to the tech community through open source projects.
+## 🛠 Tech Stack & Tools
 
-📊 Skills & Tech Stack
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![ReactJS](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
+![DrizzleORM](https://img.shields.io/badge/-Drizzle-5A67D8?style=flat&logo=drizzle)
+![TRPC](https://img.shields.io/badge/-tRPC-3178C6?style=flat&logo=trpc)
+![Upstash](https://img.shields.io/badge/-Upstash-1a202c?style=flat&logo=upstash)
+![Neon](https://img.shields.io/badge/-Neon-26B5E3?style=flat&logo=postgresql)
+![Clerk](https://img.shields.io/badge/-Clerk-FD5750?style=flat&logo=clerk)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai)
+![LangChain](https://img.shields.io/badge/-LangChain-00b894?style=flat)
+![Mistral](https://img.shields.io/badge/-Mistral-AACBFF?style=flat)
 
+---
 
-![Skills](https://img.shields.io/badge/Skills-Vite-000000?style=flat&logo= vite&logoColor=white)
+## 🌟 About Me
 
+- 💻 **Software Engineer** with a mission to blend AI and Full-Stack Development.
+- 🧠 Constantly learning and building in **Web3**, **AI Applications**, **Cloud Computing**, and **Data Systems**.
+- 🚀 Currently mastering **Next.js**, **NestJS**, **System Design**, **AI Model Integration**, and **Scalable Architectures**.
+- 🤝 **Open Source Contributor** — deeply committed to community-driven innovation.
+- 🌎 A **lifelong learner** passionate about making technology more human-centered and accessible.
+- 📫 Reach out to me: [developerdev2007@gmail.com](mailto:developerdev2007@gmail.com)
 
-🛠️ Tech I've Worked With
-<div align="center"> <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" /> <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" /> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" /> <img src="https://img.icons8.com/ios/48/000000/react.png" alt="ReactJS" /> <img src="https://img.icons8.com/fluency/48/000000/nodejs.png" alt="Node.js" /> <img src="https://img.icons8.com/external-flat-juicy-fish/48/000000/python.png" alt="Python" /> </div>
-🏆 Open Source Contributions
-Contributing to the open-source community has taught me valuable collaboration and problem-solving skills.
+---
 
-🔗 Plone Organization Profile
+## 🚀 Featured Projects
 
-✨ Cool Projects I've Built
-Here are some cool projects I’ve worked on:
+### 🎬 YouTube Clone — Real-Time Video Sharing Platform
 
-Full Stack E-shop App
+> **Stack:** Next.js, tRPC, Drizzle ORM, Neon, Upstash Redis, Mux Video, Clerk Authentication  
+> **Description:**  
+> A full-fledged, production-ready YouTube alternative featuring video streaming, uploads, real-time comments, secure authentication, and serverless database architecture.
 
-Tech Stack: React, Redux, Node.js, Express, MongoDB Atlas
-Description: An interactive e-commerce web application with real-time features using WebSocket.IO.
-OAuth Integration Sandbox
+🔗 [Link:](https://devtube-clone.vercel.app/)
 
-Tech Stack: Next.js, ReactJS, Express.js
-Description: A sandbox environment to learn and implement custom OAuth flows seamlessly.
-🌱 Currently Learning
-🚀 Next.js & NestJS for scalable server-side rendered web applications and modern backend architecture.
-📊 Preparing for Google Summer of Code (GSoC) to explore and contribute to open-source initiatives!
+---
 
-💬 Let's Connect
+### 💬 Mistral AI Chatbot for Almani Lokheri
 
+> **Stack:** Custom HTML/CSS/JavaScript Frontend + Mistral AI Model Backend  
+> **Description:**  
+> Designed and implemented a real-time AI chatbot to serve visitors with intelligent responses, seamlessly connecting a lightweight frontend to a powerful Mistral-powered backend.
 
+🔗 [Click me ](<[Almanilokheri](https://almanilokheri.in/)>)
 
-✨ Random Tech Quote:
+---
 
-"Code is like humor. When you have to explain it, it’s bad."
+## 🧠 AI Engineering
+
+- 🤖 Building lightweight and efficient **AI Assistants** using **Mistral**, **OpenAI APIs**, **LangChain**, and **serverless backends**.
+- 🛠 Experimenting with **Vector Databases**, **RAG (Retrieval Augmented Generation)**, and **Prompt Engineering**.
+- 🚀 Vision: Empower businesses and communities by embedding **smart, autonomous systems** into web products.
+
+---
+
+## 🏆 Open Source Contributions
+
+- ✨ Contributor at **Plone Organization** — actively collaborating to push web ecosystems forward.
+- 🎯 Preparing for major contributions in **GSoC 2025**.
+- 🛡 Advocating for open, ethical, and impactful tech through community-first projects.
+
+---
+
+## 📈 GitHub Stats (Real-Time)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=developerdev2007&show_icons=true&theme=radical" alt="Dev's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=developerdev2007&theme=radical" alt="Dev's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerdev2007&layout=compact&theme=radical" alt="Dev's Top Languages" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://leetcode.com/u/developerdev2007/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://www.linkedin.com/in/dev-gupta-1330642b8/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.fiverr.com/s/YRBrwma"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/></a>
+</p>
+
+---
+
+## ✨ Random Tech Quote
+
+> "**Code is like humor. When you have to explain it, it’s bad.**" — _Cory House_
+
+---

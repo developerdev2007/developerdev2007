@@ -3,7 +3,7 @@
 Welcome to my GitHub! 👋  
 I'm a **MERN Stack Developer** evolving into an **AI-Driven Full-Stack Engineer**, passionate about building scalable products, intelligent systems, and crafting next-gen user experiences.  
 Currently deep-diving into **Next.js**, **NestJS**, **AI Integrations**, and **Modern Cloud Architectures**.
-
+## [Portfolio (View my work)](https://developerdev2007-portfolio.vercel.app/)
 ---
 
 ## 🛠 Tech Stack & Tools
@@ -77,7 +77,7 @@ Currently deep-diving into **Next.js**, **NestJS**, **AI Integrations**, and **M
 - 🛡 Advocating for open, ethical, and impactful tech through community-first projects.
 
 ---
-
+## [Portfolio (View my work)](https://developerdev2007-portfolio.vercel.app/)
 ## 📈 GitHub Stats (Real-Time)
 
 <p align="center">
@@ -97,6 +97,7 @@ Currently deep-diving into **Next.js**, **NestJS**, **AI Integrations**, and **M
 </p>
 
 ---
+## [Portfolio (View my work)](https://developerdev2007-portfolio.vercel.app/)
 
 ## ✨ Random Tech Quote
 
